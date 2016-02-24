@@ -1,0 +1,21 @@
+{
+  "name": "atom-json-color",
+  "version": "0.1.0",
+  "description": "Color a JSON in Atom Editor with a color per level",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/th00ber/atom-json-color.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "author": {
+    "name": "Stéphane BERTHO"
+  },
+  "keywords": [
+    "JSON",
+    "Syntax",
+	"color"
+  ]
+}
