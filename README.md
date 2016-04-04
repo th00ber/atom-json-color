@@ -1,6 +1,6 @@
 # atom-json-color
 Color a JSON in Atom Editor with a color per level
-(If you are using a light theme, you can go to the package setting and check "LightTheme" then restart Atom.)
+(If you are using a light theme, you can go to the package setting and check "LightTheme" then restart Atom or Ctrl-Alt-R to reload the window.)
 
 With the plugin :)
 
