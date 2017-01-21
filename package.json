@@ -1,7 +1,7 @@
 {
   "name": "atom-json-color",
   "main": "./lib/atom-json-color",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "description": "Color a JSON in Atom Editor with a color per level",
   "repository": {
     "type": "git",
